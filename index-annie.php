@@ -1,3 +1,2 @@
 hello groupe
-bienvenue à potopoto
-guys
+bienvenue les gars
